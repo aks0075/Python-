@@ -1,2 +1,2 @@
-# Python-
+# Python
 Full Python Course
